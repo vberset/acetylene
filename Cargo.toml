@@ -1,0 +1,9 @@
+[package]
+name = "acetylene"
+version = "0.1.0"
+authors = ["Vincent Berset <vberset@protonmail.ch>"]
+
+[dependencies]
+lazy_static = "0.2.8"
+regex = "0.2"
+sha2 = "0.5.2"
